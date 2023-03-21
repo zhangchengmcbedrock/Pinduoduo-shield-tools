@@ -1,10 +1,17 @@
 # Pinduoduo-shield-tools
 屏蔽拼多多工具  
 host 屏蔽方法  
-1 先打开仓库的host文件，  
-2复制一下    
-3打开 C:\Windows\System32\drivers\etc 的 host 文件 （有记事本打开）   
-4 从下面粘贴一下   
-5 保存文件  
+hosts 文件在每个系统的位置不一，详情如下：     
+
+Windows 系统：C:\Windows\System32\drivers\etc\hosts     
+Linux 系统：/etc/hosts     
+os x系统：/etc/hosts       
+Android 系统：/system/etc/hosts     
+（iOS）系统：/etc/hosts     
+修改方法，把host文件内容复制到文本末尾：     
+ 
+Windows 使用记事本。      
+Linux、Mac 使用 Root 权限：sudo vi /etc/hosts。     
+iPhone、iPad 须越狱、Android 必须要 root。       
 
 
