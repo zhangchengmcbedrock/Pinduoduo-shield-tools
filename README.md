@@ -10,8 +10,5 @@ Android 系统：/system/etc/hosts
 （iOS）系统：/etc/hosts     
 修改方法，把host文件内容复制到文本末尾：     
  
-Windows 使用记事本。      
-Linux、Mac 使用 Root 权限：sudo vi /etc/hosts。     
-iPhone、iPad 须越狱、Android 必须要 root。       
 
 
