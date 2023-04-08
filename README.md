@@ -1,6 +1,7 @@
 # Pinduoduo-shield-tools
 屏蔽拼多多工具  
-使用host 屏蔽方法  
+使用host 屏蔽      
+方法  
 hosts 文件在每个系统的位置不一，详情如下：     
 
 Windows 系统：C:\Windows\System32\drivers\etc\hosts     
